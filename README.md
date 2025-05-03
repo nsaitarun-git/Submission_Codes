@@ -14,3 +14,7 @@ We provide a MATLAB script for playing the pain sounds used in this study. The G
 
 ![Image](https://github.com/user-attachments/assets/e52e4c75-8b60-40e9-b3d7-4952aeb0d9d6)
 
+## Generate Pain Expressions
+We provide a simple MATLAB script to generate pain expressions for white male and female, which were used to display pain expressions on MorphFace. Run the ```Show_Pain_Expressions.m``` MATLAB script to generate pain expressions.
+
+![Pain_expressions-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0ef343fb-f6a5-44f6-8030-0403c1dbd89b)
