@@ -15,6 +15,14 @@ This repository contains the experiment codes and raw data for a study conducted
 - [NI-DAQmx Support from Data Acquisition Toolbox](https://uk.mathworks.com/hardware-support/nidaqmx.html)
 - [DSP System Toolbox](https://uk.mathworks.com/products/dsp-system.html)
 - [Statistics and Machine Learning Toolbox](https://uk.mathworks.com/products/statistics.html)
+- [Daviolinplot](https://uk.mathworks.com/matlabcentral/fileexchange/136524-daviolinplot-violin-and-raincloud-plots)
+
+### Python Modules and Packages 
+- [pandas](https://pypi.org/project/pandas/)
+- [statsmodels](https://pypi.org/project/statsmodels/)
+- [matplotlib](https://pypi.org/project/matplotlib/)
+- [seaborn](https://pypi.org/project/seaborn/)
+- [scikit-learn](https://pypi.org/project/scikit-learn/)
 
 ## GUI for Playing Pain Sounds 
 We provide a MATLAB script for playing the pain sounds used in this study. The GUI can be used to easily change the audio properties of the pain sounds. Use the GUI to select specific pain sounds, amplitude, pitch, and gender (male or female). The waveform of the generated pain sound is also shown. All the available options were used as parameters during the study. Run the ```Play_Pain_Sounds_GUI.m``` MATLAB script for the GUI.   
