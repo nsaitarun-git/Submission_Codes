@@ -6,10 +6,11 @@ This repository contains the experiment codes and raw data for a study conducted
 
 ## Programming Languages 
 
-- **MATLAB**: We used MATLAB for conducting the experiments and for recording the experiment data. Additionally, we performed some of our analysis with MATLAB.
-- **Python**: We used Python for performing some of our analysis.
+- **MATLAB**: We used MATLAB 2024a for conducting the experiments and for recording the experiment data. Additionally, we performed some of our analysis with MATLAB.
+- **Python**: We used Python 3.11 for performing some of our analysis.
 
 ## Prerequisites
+To run the experiment and analysis codes, you will require the following dependencies for both MATLAB and Python. Please install any additional dependencies your system may be missing. Refer to the installation pages for more information. 
 ### MATLAB Toolboxes and Packages
 - [Data Acquisition Toolbox](https://uk.mathworks.com/products/data-acquisition.html)
 - [NI-DAQmx Support from Data Acquisition Toolbox](https://uk.mathworks.com/hardware-support/nidaqmx.html)
