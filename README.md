@@ -9,6 +9,13 @@ This repository contains the experiment codes and raw data for a study conducted
 - **MATLAB**: We used MATLAB for conducting the experiments and for recording the experiment data. Additionally, we performed some of our analysis with MATLAB.
 - **Python**: We used Python for performing some of our analysis.
 
+## Prerequisites
+### MATLAB Toolboxes and Packages
+- [Data Acquisition Toolbox](https://uk.mathworks.com/products/data-acquisition.html)
+- [NI-DAQmx Support from Data Acquisition Toolbox](https://uk.mathworks.com/hardware-support/nidaqmx.html)
+- [DSP System Toolbox](https://uk.mathworks.com/products/dsp-system.html)
+- [Statistics and Machine Learning Toolbox](https://uk.mathworks.com/products/statistics.html)
+
 ## GUI for Playing Pain Sounds 
 We provide a MATLAB script for playing the pain sounds used in this study. The GUI can be used to easily change the audio properties of the pain sounds. Use the GUI to select specific pain sounds, amplitude, pitch, and gender (male or female). The waveform of the generated pain sound is also shown. All the available options were used as parameters during the study. Run the ```Play_Pain_Sounds_GUI.m``` MATLAB script for the GUI.   
 
