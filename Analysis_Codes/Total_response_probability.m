@@ -19,10 +19,10 @@ disAgreeCount = 0;
 trials = 192;
 numSubjects = 20;
 totalTrials = 7680;
-gender = "Male";
 %% Read data
 
 for n=1:2
+    gender = "Male";
     for i=1:numSubjects
         data = readtable("../Raw_Experiment_Data/" + "S" + string(i) + "\"+ gender + "\S" + string (i) +" Exp T192.txt");
         choices = table2array(data(:,6));
